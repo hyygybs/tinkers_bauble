@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "tag": "forge:gems/silky_jewel"
+  },
+  "material": "tinkers_bauble:silky_jewel",
+  "needed": 1,
+  "value": 1
+}

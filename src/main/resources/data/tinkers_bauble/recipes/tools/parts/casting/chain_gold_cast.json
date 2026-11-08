@@ -1,0 +1,8 @@
+{
+  "type": "tconstruct:table_casting_material",
+  "cast": {
+    "tag": "tinkers_bauble:casts/multi_use/chain"
+  },
+  "item_cost": 2,
+  "result": "tinkers_bauble:chain"
+}

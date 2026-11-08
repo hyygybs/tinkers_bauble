@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "tag": "forge:gems/diamond"
+  },
+  "material": "tinkers_bauble:diamond",
+  "needed": 1,
+  "value": 1
+}

@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:part_builder",
+  "cost": 1,
+  "pattern": "tinkers_bauble:gem",
+  "pattern_item": [
+    {
+      "tag": "tconstruct:patterns/default"
+    }
+  ],
+  "result": {
+    "item": "tinkers_bauble:gem"
+  }
+}

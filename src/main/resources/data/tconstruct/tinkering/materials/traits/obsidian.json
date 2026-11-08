@@ -1,0 +1,18 @@
+{
+  "perStat": {
+    "tinkers_bauble:gem": [
+      {
+        "level": 1,
+        "name": "tinkers_bauble:gem_resistance"
+      },
+      {
+        "level": 1,
+        "name": "tinkers_bauble:rough"
+      },
+      {
+        "level": 1,
+        "name": "tinkers_bauble:unyielding"
+      }
+    ]
+  }
+}

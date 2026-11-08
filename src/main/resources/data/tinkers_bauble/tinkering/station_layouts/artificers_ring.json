@@ -1,0 +1,28 @@
+{
+  "icon": {
+    "item": "tinkers_bauble:artificers_ring",
+    "nbt": "{Damage:0,tic_broken:0b,tic_display:1b,tic_materials:[\"tconstruct:ui_render#head\",\"tconstruct:ui_render#handle\",\"tconstruct:ui_render#extra\",\"tconstruct:ui_render#large\",\"tconstruct:ui_render#extra_large\"]}"
+  },
+  "input_slots": [
+    {
+      "filter": {
+        "item": "tinkers_bauble:plain_ring"
+      },
+      "icon": "tinkers_bauble:plain_ring",
+      "translation_key": "item.tinkers_bauble.plain_ring",
+      "x": 39,
+      "y": 35
+    },
+    {
+      "filter": {
+        "item": "tinkers_bauble:gem"
+      },
+      "icon": "tinkers_bauble:gem",
+      "translation_key": "item.tinkers_bauble.gem",
+      "x": 21,
+      "y": 53
+    }
+  ],
+  "sortIndex": 100,
+  "translation_key": "item.tinkers_bauble.artificers_ring"
+}

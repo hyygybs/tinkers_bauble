@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "tag": "forge:gems/lapis"
+  },
+  "material": "tinkers_bauble:lapis",
+  "needed": 1,
+  "value": 1
+}

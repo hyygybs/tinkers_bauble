@@ -1,0 +1,14 @@
+{
+  "perStat": {
+    "tinkers_bauble:gem": [
+      {
+        "level": 1,
+        "name": "tinkers_bauble:fireproof"
+      },
+      {
+        "level": 1,
+        "name": "tinkers_bauble:flight"
+      }
+    ]
+  }
+}

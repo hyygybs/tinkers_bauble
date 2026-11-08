@@ -1,0 +1,17 @@
+{
+  "perStat": {
+    "tinkers_bauble:ring": [
+      {
+        "level": 1,
+        "name": "tinkers_bauble:not_hungry"
+      }
+    ],
+    "tinkers_bauble:chain": [
+      {
+        "level": 1,
+        "name": "tinkers_bauble:not_hungry"
+      }
+    ],
+    "tinkers_bauble:gem": []
+  }
+}

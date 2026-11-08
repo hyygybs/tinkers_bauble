@@ -1,0 +1,18 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default-tool",
+  "textures": {
+    "chain": "tinkers_bauble:item/tool/necklace/chain",
+    "gem": "tinkers_bauble:item/tool/necklace/gem"
+  },
+  "parts": [
+    {
+      "name": "chain",
+      "index": 0
+    },
+    {
+      "name": "gem",
+      "index": 1
+    }
+  ]
+}

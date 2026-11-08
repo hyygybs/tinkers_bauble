@@ -1,0 +1,35 @@
+{
+  "perStat": {
+    "tconstruct:armor": [
+      {
+        "level": 1,
+        "name": "tinkers_thinking:shadowing"
+      }
+    ],
+    "tconstruct:melee_harvest": [
+      {
+        "level": 1,
+        "name": "tinkers_thinking:shady"
+      }
+    ],
+    "tconstruct:ranged": [
+      {
+        "level": 1,
+        "name": "tinkers_thinking:shady"
+      }
+    ],
+    "tinkers_bauble:ring": [
+      {
+        "level": 1,
+        "name": "tinkers_thinking:shady",
+        "optional": true
+      }
+    ],
+    "tinkers_bauble:chain": [
+      {
+        "level": 1,
+        "name": "tinkers_thinking:shadowing"
+      }
+    ]
+  }
+}

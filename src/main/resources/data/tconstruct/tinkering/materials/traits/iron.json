@@ -1,0 +1,21 @@
+{
+  "perStat": {
+    "tinkers_bauble:ring": [
+      {
+        "level": 1,
+        "name": "tconstruct:magnetic"
+      }
+    ],
+    "tinkers_bauble:chain": [
+      {
+        "level": 1,
+        "name": "tconstruct:projectile_protection"
+      },
+      {
+        "level": 1,
+        "name": "tconstruct:iron_armor"
+      }
+    ],
+    "tinkers_bauble:gem": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "perStat": {
+    "tinkers_bauble:ring": [
+      {
+        "level": 1,
+        "name": "tconstruct:heavy"
+      }
+    ],
+    "tinkers_bauble:chain": [
+      {
+        "level": 1,
+        "name": "tconstruct:heavy"
+      }
+    ],
+    "tinkers_bauble:gem": []
+  }
+}

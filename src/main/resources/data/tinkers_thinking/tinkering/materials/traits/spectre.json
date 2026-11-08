@@ -1,0 +1,35 @@
+{
+  "perStat": {
+    "tconstruct:armor": [
+      {
+        "level": 1,
+        "name": "tinkers_thinking:concealing"
+      }
+    ],
+    "tconstruct:melee_harvest": [
+      {
+        "level": 1,
+        "name": "tinkers_thinking:mock"
+      }
+    ],
+    "tconstruct:ranged": [
+      {
+        "level": 1,
+        "name": "tinkers_thinking:mock"
+      }
+    ],
+    "tinkers_bauble:ring": [
+      {
+        "level": 1,
+        "name": "tinkers_thinking:mock",
+        "optional": true
+      }
+    ],
+    "tinkers_bauble:chain": [
+      {
+        "level": 1,
+        "name": "tinkers_thinking:concealing"
+      }
+    ]
+  }
+}

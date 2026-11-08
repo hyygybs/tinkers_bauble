@@ -1,0 +1,16 @@
+{
+  "type": "tconstruct:part_builder",
+  "cost": 1,
+  "pattern": "tinkers_bauble:plain_ring",
+  "pattern_item": [
+    {
+      "tag": "tconstruct:patterns/default"
+    },
+    {
+      "item": "tinkers_bauble:plain_ring_cast"
+    }
+  ],
+  "result": {
+    "item": "tinkers_bauble:plain_ring"
+  }
+}

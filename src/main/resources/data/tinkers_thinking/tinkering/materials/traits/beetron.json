@@ -1,0 +1,23 @@
+{
+  "default": [
+    {
+      "level": 1,
+      "name": "tinkers_thinking:hungriness"
+    }
+  ],
+  "perStat": {
+    "tinkers_bauble:ring": [
+      {
+        "level": 1,
+        "name": "tinkers_thinking:hungriness",
+        "optional": true
+      }
+    ],
+    "tinkers_bauble:chain": [
+      {
+        "level": 1,
+        "name": "tinkers_thinking:hungriness"
+      }
+    ]
+  }
+}

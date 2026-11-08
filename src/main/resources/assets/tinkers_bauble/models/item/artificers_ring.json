@@ -1,0 +1,18 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default-tool",
+  "textures": {
+    "plain_ring": "tinkers_bauble:item/tool/ring/plain_ring",
+    "gem": "tinkers_bauble:item/tool/ring/gem"
+  },
+  "parts": [
+    {
+      "name": "plain_ring",
+      "index": 0
+    },
+    {
+      "name": "gem",
+      "index": 1
+    }
+  ]
+}

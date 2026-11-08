@@ -1,0 +1,22 @@
+{
+  "default": [
+    {
+      "level": 1,
+      "name": "tinkers_thinking:deposition"
+    }
+  ],
+  "perStat": {
+    "tinkers_bauble:ring": [
+      {
+        "level": 1,
+        "name": "tinkers_bauble:deposition_effect"
+      }
+    ],
+    "tinkers_bauble:chain": [
+      {
+        "level": 1,
+        "name": "tinkers_bauble:deposition_effect"
+      }
+    ]
+  }
+}

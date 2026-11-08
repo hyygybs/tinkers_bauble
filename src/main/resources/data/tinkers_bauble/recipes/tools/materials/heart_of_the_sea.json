@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "minecraft:heart_of_the_sea"
+  },
+  "material": "tinkers_bauble:heart_of_the_sea",
+  "needed": 1,
+  "value": 1
+}

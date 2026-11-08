@@ -1,0 +1,12 @@
+{
+  "stats": {
+    "tinkers_bauble:ring": {
+      "attack_damage": 3.5,
+      "projectile_damage": 1.75
+    },
+    "tinkers_bauble:chain": {
+      "armor": 8.0,
+      "armor_toughness": 1.5
+    }
+  }
+}

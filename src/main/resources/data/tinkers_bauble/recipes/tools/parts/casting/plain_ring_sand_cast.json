@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:table_casting_material",
+  "cast": {
+    "tag": "tinkers_bauble:casts/single_use/plain_ring"
+  },
+  "cast_consumed": true,
+  "item_cost": 1,
+  "result": "tinkers_bauble:plain_ring"
+}

@@ -1,0 +1,17 @@
+{
+  "perStat": {
+    "tinkers_bauble:ring": [
+      {
+        "level": 1,
+        "name": "tinkers_bauble:temperate_blessing"
+      }
+    ],
+    "tinkers_bauble:chain": [
+      {
+        "level": 1,
+        "name": "tinkers_bauble:temperate_blessing"
+      }
+    ],
+    "tinkers_bauble:gem": []
+  }
+}

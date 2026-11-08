@@ -1,0 +1,17 @@
+{
+  "perStat": {
+    "tinkers_bauble:ring": [
+      {
+        "level": 1,
+        "name": "tconstruct:raging"
+      }
+    ],
+    "tinkers_bauble:chain": [
+      {
+        "level": 1,
+        "name": "tconstruct:vital_protection"
+      }
+    ],
+    "tinkers_bauble:gem": []
+  }
+}
